@@ -1,0 +1,13 @@
+PENDIENTES ANTES DE ENTREGAR
+1. Instalar el proyecto localmente con XAMPP y probarlo.
+2. Importar database.sql en phpMyAdmin.
+3. Probar registro, inicio de sesión, reserva, confirmación, rechazo y cancelación.
+4. Cambiar las contraseñas de demostración.
+5. Confirmar con el docente si el trabajo se entrega individual o grupal (el documento contiene ambas indicaciones).
+6. Confirmar con el docente si el repositorio debe llamarse pwapractica5 o pwapractica6.
+7. Crear el espacio Coda.io del grupo si el docente mantiene esa indicación y enviar el enlace.
+8. Crear el repositorio GitHub y subir todos los archivos; database.sql debe estar en la raíz.
+9. Publicar en un hosting compatible con PHP y MySQL, configurar APP_URL y credenciales.
+10. Completar las dos URL reales en Entrega_Proyecto_PWA_Belleza_Citas.docx.
+11. Entregar las dos respuestas solicitadas en EVA (confirmar el contenido exacto con el docente).
+12. Crear el archivo RAR desde la carpeta del proyecto (WinRAR: clic derecho > Añadir al archivo > formato RAR).

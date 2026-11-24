@@ -1,0 +1,26 @@
+{
+  "name": "Belleza Citas - Sistema de reservas",
+  "short_name": "Belleza Citas",
+  "description": "Aplicación web para reservar y administrar citas de peluquería.",
+  "lang": "es-EC",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8fa",
+  "theme_color": "#64132f",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
